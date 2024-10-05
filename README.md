@@ -5,10 +5,11 @@ Welcome to my GitHub profile! I'm an aspiring Laravel PHP developer, passionate 
 ## About Me
 
 - 💼 Currently working on: Learning PHP and Laravel.
+
 - 📚 Always learning: Exploring new technologies and improving my current skills.
+
 - ⏰ Time dedication: I prefer to dedicate 3 hours at a time to learning.
-- 🏋️‍♂️ Fitness enthusiast: I enjoy home workouts and intermittent fasting to stay fit.
-- 🧘‍♂️ Balance: I meditate every night before bed and take showers just before sleep.
+
 
 ## My Interests
 
